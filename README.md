@@ -3,7 +3,7 @@
 Cutting plans for probatio's supports and blocks laser cutting version
 
 ![probatio-block-lc](images/probatio-block-lc.png)
-*probatio-block-lc*
+
 ![probatio-base-1x3-lc](images/probatio-base-lc.png)
 
 Link for Fusion 360 project - probatio-block-lc: https://a360.co/2OVp9wz
