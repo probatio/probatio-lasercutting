@@ -6,6 +6,7 @@ Cutting plans for probatio's supports and blocks laser cutting version
 ![probatio-block-lc](images/probatio-block-lc.png)
 
 Link for Fusion 360 project - probatio-block-lc: https://a360.co/2OVp9wz
+
 Link for Fusion 360 **parametric** project (important for creating dummy blocks) - probatio-block-lc: https://a360.co/355aPHv
 
 ## probatio-base-lc
